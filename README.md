@@ -1,2 +1,2 @@
-# CC53E-CC3_POO
-Programação Orientada a Objetos
+# Projeto Estande de Tiro
+
