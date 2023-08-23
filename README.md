@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Estande de Tiro 🚨
 
-![https://cloudfront-us-east-1.images.arcpublishing.com/estadao/MUBATVJJLNOEJM36KT2YXZTT7E.jpg]()
+![]()
 
 **Sistema integrado de gerencimento de estande de tiro desenvolvido em C# para a disciplina de programação orientada a objetos. Este projeto busca simular situações reais de comércio, abordando conceitos como relacionamentos, herança, polimorfismo e encapsulamento.**
 
