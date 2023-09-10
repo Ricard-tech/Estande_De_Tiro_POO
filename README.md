@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Estande de Tiro 🚨
+# ~~Sistema de Gerenciamento de Estande de Tiro~~ 🚨
 
 ![](https://cloudfront-us-east-1.images.arcpublishing.com/estadao/MUBATVJJLNOEJM36KT2YXZTT7E.jpg)
 
